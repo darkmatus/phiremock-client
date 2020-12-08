@@ -15,7 +15,7 @@
             "role": "Developer"
         }
     ],
-    "name": "mcustiel/phiremock-client",
+    "name": "darkmatus/phiremock-client",
     "type": "project",
     "description": "Client library to communicate with Phiremock server",
     "license": "GPL-3.0-or-later",
